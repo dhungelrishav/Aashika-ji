@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hiiiiii</title>
+<title>Hello Aashika ji</title>
 <style>
 p {
 text-align: center;
@@ -34,7 +34,7 @@ position: absolute;
 </style>
 </head>
 <body>
-<button id="botao1">YES BBY!</button>
+<button id="botao1">YES Babe!</button>
 <button id="botao2">NO</button>
 <script>
 const button2 = document.getElementById('botao2');
@@ -50,7 +50,7 @@ button2.addEventListener('mouseover', function() {
 
 </script>
 <script>document.getElementById('botao1').addEventListener('click', function() {
-alert('YAYY THANK U 😍❤️');
+alert('Love you too 😍❤️');
 });
 </script>
 </body>
